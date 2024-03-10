@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/c++ -G Ninja -S /Users/ihorlenko/CLionProjects/ICPC -B /Users/ihorlenko/CLionProjects/ICPC/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/ihorlenko/CLionProjects/ICPC/cmake-build-debug
